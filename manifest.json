@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "altair-viz",
+  "repo": "altair_pandas",
+  "versions": [
+    {
+      "commit": "506d0b937f1ac047168c88f814c1e3266490a9cc",
+      "parsed_at": "2026-10-15T21:07:19.925656+00:00",
+      "filetree": "filetree/506d0b937f1ac047168c88f814c1e3266490a9cc.nq.gz",
+      "blobs": [
+        "blob/8f0d6f888628c57c756baecf17deba22902d76cf.nq.gz",
+        "blob/cf4b7496129a214bb43009cb904cf0a05cd30853.nq.gz",
+        "blob/820df4429d8c9f28d4fd038fc4f6844f6af4a9ec.nq.gz",
+        "blob/e8ea1039ce5d995f0341e29c3db562bea28cd66c.nq.gz",
+        "blob/d6f2cc1eb5bc99e21170d3a2769143466f6ddf52.nq.gz",
+        "blob/059fea414ff156abe30a805e82987ccfb6470f8a.nq.gz",
+        "blob/5148fe31f1a672fe0541555158917c8256ff125f.nq.gz",
+        "blob/78c686b6c98858a4f1e79491459b0adae7fd9dbe.nq.gz",
+        "blob/2d7bcce26d02f6a30fd476d3fdd8c7dbf68fc687.nq.gz",
+        "blob/c57bf0d0f4367c79a9a1f89b8fdbe388a2682843.nq.gz",
+        "blob/bad0e33ad1e68a4439d810fcf46f71a450e21407.nq.gz",
+        "blob/f1bf3091f3d839dd257128780da01f20573dd2a6.nq.gz",
+        "blob/ef1e0135c8c76beba3b5f3c0446e6268606554f4.nq.gz",
+        "blob/ff7ab7326f1274213b3808ebc03c12c17234a8fa.nq.gz",
+        "blob/c375abfde5ae32384f401f9624da130f14c71ee4.nq.gz",
+        "blob/5a57e5d06b6ec59091e67744cc8b94dc7303518b.nq.gz",
+        "blob/e92ab5df68161df80a8f0c466ee6c6e3a3cb1a25.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
