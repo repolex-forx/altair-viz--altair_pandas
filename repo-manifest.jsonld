@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/altair-viz/altair_pandas/commit/506d0b937f1ac047168c88f814c1e3266490a9cc",
       "git:hexsha": "506d0b937f1ac047168c88f814c1e3266490a9cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
