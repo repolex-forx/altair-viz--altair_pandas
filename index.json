@@ -1,0 +1,11 @@
+{
+  "org": "altair-viz",
+  "repo": "altair_pandas",
+  "versions": [
+    {
+      "commit": "506d0b937f1ac047168c88f814c1e3266490a9cc",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:09:47.626925+00:00"
+    }
+  ]
+}
